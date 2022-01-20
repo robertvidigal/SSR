@@ -1,3 +1,5 @@
+# Git Hub Test
+
 library(ggplot2)
 library(scales)   # to access breaks/formatting functions
 library(gridExtra) # for arranging plots
@@ -39,6 +41,7 @@ names(df2)
 dMean <- df2 %>%
   group_by(wave) %>%
   summarise(MN = mean(qtde))
+# content analysis results
 
 #criando o gráfico
 png(filename="~/Dropbox/PhD/ARTIGOS Trabalhando/SSR/contentplot.png", width = 700, height = 250)
