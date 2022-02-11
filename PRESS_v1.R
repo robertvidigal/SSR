@@ -1,4 +1,4 @@
-# Git Hub Test
+# Figure 1
 
 library(ggplot2)
 library(scales)   # to access breaks/formatting functions
