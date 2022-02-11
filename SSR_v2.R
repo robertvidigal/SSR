@@ -1,5 +1,9 @@
 # ----------
+<<<<<<< HEAD
 # SSR BRAZIL
+=======
+# SSR BRAZIL - Feb 11
+>>>>>>> 8c178badbb87c186a1713eebbcc60e093e2d40d7
 # ----------
 ssr<-haven::read_sav("~/Dropbox/PhD/ARTIGOS Trabalhando/SSR/fssr/data/FSSR1.sav")
 require(psych)
@@ -386,9 +390,12 @@ dev.off()
 
 ### QUICK TOPIC ANALYSIS
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 8c178badbb87c186a1713eebbcc60e093e2d40d7
 # PLOT WITH PERCENTAGES ON IT
 #require(ggrepel)
 #ggplot(tab2, aes(x=ONDA, y=Perc, group = tratamento, shape=tratamento, color=tratamento))+ 
