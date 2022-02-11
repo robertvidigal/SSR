@@ -1,5 +1,5 @@
 # ----
-# SSR BRAZIL
+# SSR BRAZIL: 20Jan
 # ----
 ssr<-haven::read_sav("~/Dropbox/PhD/ARTIGOS Trabalhando/SSR/fssr/data/FSSR1.sav")
 require(psych)
